@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Aux from '../../hoc/Aux'
+import Aux from '../../hoc/AppAux'
 import NavBar from '../../components/NavBar/NavBar';
 import images from '../../../config/images';
 import styles from '../../../config/styles'
